@@ -13,6 +13,7 @@ prompt("Javobni 10 ga ko'paytiring");
 prompt("Javobni 5 ga ko'paytiring");
 prompt("Javobni 50 ga bo'ling");
 prompt("Javobdan o'ylagan soningizni ayiring");
+prompt("Chiqgan javob 5");
 
 
 console.log('Sizning yoshingiz ' + (2021 - yil) + ' da');
